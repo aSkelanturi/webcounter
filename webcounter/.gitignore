@@ -1,7 +1,0 @@
-/*.tmp
-.coverage
-__pycache__/
-.venv/
-.pytest_cache/
-htmlcov/
-/*.png
